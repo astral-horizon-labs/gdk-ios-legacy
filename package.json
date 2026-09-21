@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Janaka-Steph/react-native-gdk-ios-legacy",
-  "author": "Janaka-Steph <rochestephane@yahoo.fr> (https://github.com/Janaka-Steph)",
+  "repository": "https://github.com/astral-horizon-labs/react-native-gdk-ios-legacy",
+  "author": "astral-horizon-labs <rochestephane@yahoo.fr> (https://github.com/astral-horizon-labs)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Janaka-Steph/react-native-gdk-ios-legacy/issues"
+    "url": "https://github.com/astral-horizon-labs/react-native-gdk-ios-legacy/issues"
   },
-  "homepage": "https://github.com/Janaka-Steph/react-native-gdk-ios-legacy#readme",
+  "homepage": "https://github.com/astral-horizon-labs/react-native-gdk-ios-legacy#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
